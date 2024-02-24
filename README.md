@@ -20,7 +20,7 @@ To set up and run this project, or view the Jupyter Notebook if it's not renderi
 
 1. **Viewing the Notebook on nbviewer:**
    - If you're unable to render the Jupyter Notebook directly on GitHub, you can use [nbviewer](https://nbviewer.org/) to view the notebook.
-   - Simply go to [nbviewer](https://nbviewer.org/), paste the URL of the repository into the search box, and navigate to the notebook file (.ipynb) you wish to view.
+   - Simply go to [nbviewer](https://nbviewer.org/), paste the URL of this repository 'https://github.com/soniabog/Stellar_classification' into the search box, and navigate to the notebook file (.ipynb) you wish to view.
 
 Please note that while nbviewer allows you to view the content of Jupyter Notebooks, to run the code and interact with the data, you'll need to follow the local setup steps.
 
